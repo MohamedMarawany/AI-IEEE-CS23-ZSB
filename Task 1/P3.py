@@ -12,5 +12,4 @@ for sub, vals in dict1.items():
     if max_res == max(vals) - min(vals):
         res = sub
           
-# printing result 
 print("The maximum element key : " + str(res)) 
