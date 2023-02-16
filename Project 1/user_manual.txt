@@ -1,0 +1,7 @@
+This file is your catalogue to use this program. 
+
+First, Store your equations in a text file named 'equations.txt'. 
+
+If you have 3 equations, Your text file should be like this: 
+
+Number of equations: 3 
